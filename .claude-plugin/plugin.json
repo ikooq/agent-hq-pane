@@ -1,0 +1,7 @@
+{
+  "name": "agent-hq",
+  "version": "0.1.0",
+  "description": "A pane beside the chat with your Agent HQ office: who is waiting on you, who is stuck, who is working.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
